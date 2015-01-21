@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    William Yon -- Digital Ethusiast -- @williamyon
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Skeleton
+    jQuery, Modernizr
